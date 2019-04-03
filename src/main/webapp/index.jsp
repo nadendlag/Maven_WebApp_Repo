@@ -1,15 +1,13 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<<<<<<< HEAD
-<title>Hello world!srini april 1st/title>
-=======
-<title>Hello world! GOva</title>
->>>>>>> c827c0f2694bb155f51a254a2f25a4826b7687d1
+
+<title>Hello world! GOva april 3rd</title>
+
 </head>
 <body> 
 
-<h1>Create a new person ****!!* aftennfdfr change1 april</h1>
+<h1>April 3rd changes ...Create a new person ****!!* aftennfdfr change1 april</h1>
 <mak:newForm type="general.Person" action="index.jsp">
 Name: <mak:input field="name" /><br/>
 Surname: <mak:input field="surname" />
